@@ -16,7 +16,7 @@
 
 This project will be a test of the Django Ninja framework and getting to know it a little bit. I will build an API which will load the data 
 from the database and present it to the user. Basic CRUD functionality. From the description it should be somewhere in between 
-DjangoREST and Flask in terms of complexity. 
+DjangoREST and Flask in terms of complexity. Instead of using Serializers in DRM, Django Ninja uses pydantic. 
 
 ## Installation
 Install the dependencies from requirements.txt
